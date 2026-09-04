@@ -1,0 +1,18 @@
+# Dataset
+ArASL_Database_54K_Final/
+*.zip
+
+# Model weights
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
