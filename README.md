@@ -172,6 +172,30 @@ The system:
 
 ---
 
+---
+
+## Deployment Screenshots
+
+### Home Page
+
+The main interface allows users to upload an Arabic Sign Language gesture image for recognition or enter Arabic text for sign translation.
+
+![Home Page](assets/home_page.png)
+
+### Sign Recognition Result
+
+The Vision Transformer predicts the Arabic letter from the uploaded hand gesture image and displays the prediction confidence.
+
+![Sign Recognition Result](assets/sign_prediction_result.png)
+
+### Arabic Text to Sign Language Translation
+
+The system converts Arabic text character by character into the corresponding Arabic Sign Language images and displays them from right to left.
+
+![Text to Sign Translation](assets/text_to_sign_translation.png)
+
+---
+
 ## Technologies
 
 ### Machine Learning and Deep Learning
